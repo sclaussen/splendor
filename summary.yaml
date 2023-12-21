@@ -1,0 +1,48 @@
+points:
+  diamond:
+    name: diamond
+    value: 0
+  emerald:
+    name: emerald
+    value: 0
+  ruby:
+    name: ruby
+    value: 0
+  sapphire:
+    name: sapphire
+    value: 0
+  onyx:
+    name: onyx
+    value: 0
+discounts:
+  diamond:
+    name: diamond
+    value: 0
+  emerald:
+    name: emerald
+    value: 0
+  ruby:
+    name: ruby
+    value: 0
+  sapphire:
+    name: sapphire
+    value: 0
+  onyx:
+    name: onyx
+    value: 0
+cost:
+  diamond:
+    name: diamond
+    value: 0
+  emerald:
+    name: emerald
+    value: 0
+  ruby:
+    name: ruby
+    value: 0
+  sapphire:
+    name: sapphire
+    value: 0
+  onyx:
+    name: onyx
+    value: 0
